@@ -4,4 +4,4 @@ A project using Flutter Modular, Mobx as State Management, SQLite(Database) with
 
 ## Installing the app
 
-To install the app, clone the repository and run the command "flutter run" from the root folder.
+To install the app, clone the repository and in the root folder run the command "flutter pub get" to get the dependencies and then "flutter run" to run the app.
